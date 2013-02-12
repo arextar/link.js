@@ -39,3 +39,8 @@ link.connect('global', function (room) {
 })
 </script>
 ````
+
+## Todos:
+ - [ ] Putting together the server framework
+ - [ ] Writing the API docs
+ - [ ] Investigating WebRTC
